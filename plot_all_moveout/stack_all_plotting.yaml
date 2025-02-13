@@ -1,0 +1,5 @@
+DATADIR : '/srv/beegfs/scratch/shares/cdff/DPM/Processing/STACK_SS_1bit_no_bad_stations' 
+freqmin : 0.1
+freqmax : 1.0
+component : 'ZZ'
+OUTDIR : '/srv/beegfs/scratch/shares/cdff/DPM/mika_scripts/stack_all_plotting/plots'

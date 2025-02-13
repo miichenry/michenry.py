@@ -1,0 +1,5 @@
+DATADIR : "/srv/beegfs/scratch/shares/cdff/DPM/Processing/STACK_SS_1bit_no_bad_stations"  # dir with data in ASDF format
+figname : "symmetric_stack_time_DPM_linear.png"                                                   # fig name !!! Don't forget the .png extension
+OUTDIR : "/srv/beegfs/scratch/shares/cdff/DPM/mika_scripts/symmetric_stack_time/plots"     # dir where to store the figure
+freqmin : 0.2
+freqmax : 1.0

@@ -1,0 +1,4 @@
+title   : "Data availability for DPM Krumovgrad Project"                                # Plot title (para. for subsequent function)
+DATADIR : "/srv/beegfs/scratch/shares/cdff/DPM/Processing/h5_DPM_resp_no_bad_stations_chan_corrected"  # dir with data in ASDF format
+figname : "data_availability_DPM_no_bad_stations_chan_corrected.png"                                                   # fig name !!! Don't forget the .png extension
+OUTDIR : "/srv/beegfs/scratch/shares/cdff/DPM/mika_scripts/data_availability/plots"     # dir where to store the figure
